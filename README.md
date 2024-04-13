@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @VG-Data-Engineer
-- 👀 I’m interested in Python & Data Engineering
-- 🌱 I’m currently learning Azure Data Factory & Microsoft Fabric
-- 💞️ I’m looking to collaborate on Data Engineering Projects
+- 👋 Hi, I’m @Val-Ge
+- 👀 I’m interested in lots of stuff!
+- 🌱 I’m currently learning as much as possible
+- 💞️ I’m looking to collaborate on back-end projects with Python
 - 📫 How to reach me - email: vgdataengineering@gmail.com
 - 😄 Pronouns: she
   
